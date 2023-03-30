@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @alfredjynx
-- 👀 I’m interested in art, technology and music
-- 🌱 I’m currently learning computer science at Insper
-- 💞️ I’m looking to collaborate on anything that coincides or is part of my curriculum
+My name is João Alfredo Cardoso Lamy and I'm currently studying Computer Science at Insper (Instituto de Ensino e Pesquisa). 
 - 📫 How to reach me: instagram (@alfreeeeeeeeedo)
-
